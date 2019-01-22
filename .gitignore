@@ -10,3 +10,11 @@
 
 ### Other ###
 *.zip
+.DS_Store
+.idea
+*.ai
+*.log
+node_modules/
+npm-debug.*
+source/css/*.css
+Thumbs.db
