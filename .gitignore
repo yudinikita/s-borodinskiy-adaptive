@@ -9,3 +9,4 @@
 !.vscode/.eslintrc
 
 ### Other ###
+*.zip
