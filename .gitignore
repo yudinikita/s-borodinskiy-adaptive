@@ -1,0 +1,10 @@
+# Created by https://github.com/nblackninja
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Other ###
