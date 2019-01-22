@@ -6,5 +6,6 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+!.vscode/.eslintrc
 
 ### Other ###
