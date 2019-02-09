@@ -19,4 +19,4 @@ npm-debug.*
 source/css/*.css
 Thumbs.db
 psd/*
-sass/*
+source/sass/*
