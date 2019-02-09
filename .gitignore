@@ -20,3 +20,6 @@ source/css/*.css
 Thumbs.db
 psd/*
 source/sass/*
+source/sass/normalize.css
+source/sass/style.css
+source/sass/style.css.map
