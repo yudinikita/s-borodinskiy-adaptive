@@ -1,1 +1,10 @@
+@import 'normalize';
 
+// переменные
+@import 'variables';
+
+// общие правила
+@import 'main-rules';
+
+// миксины()
+@import 'mixins';
