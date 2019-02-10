@@ -1,10 +1,20 @@
-@import 'normalize';
+// normalize.css - v8.0.1
+@import '_normalize';
 
 // переменные
-@import 'variables';
+@import '_variables';
 
 // общие правила
-@import 'main-rules';
+@import '_main-rules';
 
 // миксины()
-@import 'mixins';
+@import '_mixins';
+
+// header
+@import 'blocks/_page-header';
+
+// меню
+@import 'blocks/_main-nav';
+
+// статистика на главной
+@import 'blocks/_stats';
