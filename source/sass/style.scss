@@ -13,8 +13,10 @@
 // header
 @import 'blocks/_page-header';
 
-// меню
 @import 'blocks/_main-nav';
 
-// статистика на главной
 @import 'blocks/_stats';
+
+@import 'blocks/site-list';
+
+@import 'blocks/user-list';
