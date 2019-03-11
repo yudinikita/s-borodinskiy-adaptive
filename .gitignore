@@ -15,11 +15,11 @@
 *.ai
 *.log
 node_modules/
+build/
 npm-debug.*
 source/css/*.css
 Thumbs.db
 psd/*
 source/sass/*
 source/sass/normalize.css
-source/sass/style.css
-source/sass/style.css.map
+Thumbs.db
