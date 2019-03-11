@@ -1,0 +1,22 @@
+{
+  "name": "s-borodinski-adaptive",
+  "version": "1.0.0",
+  "description": "Дата создания: **.01.2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nblackninja/s-Borodinskiy-adaptive.git"
+  },
+  "author": "Nikita Yudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nblackninja/s-Borodinskiy-adaptive/issues"
+  },
+  "homepage": "https://github.com/nblackninja/s-Borodinskiy-adaptive#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
