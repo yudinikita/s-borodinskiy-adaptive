@@ -1,10 +1,12 @@
 {
   "name": "s-borodinski-adaptive",
   "version": "1.0.0",
-  "description": "Дата создания: **.01.2019",
-  "main": "index.js",
+  "description": "Landing page",
+  "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build",
+    "start": "npm run build && gulp serve"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,25 @@
   },
   "homepage": "https://github.com/nblackninja/s-Borodinskiy-adaptive#readme",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-pretty-html": "^2.0.9",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.4.10",
+    "browser-sync": "^2.26.3",
+    "copy": "^0.3.2",
+    "del": "^4.0.0",
+    "delete": "^1.1.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-svgmin": "^2.1.0",
+    "postcss-cli": "^6.1.2"
   }
 }
