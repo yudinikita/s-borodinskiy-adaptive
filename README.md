@@ -1,8 +1,6 @@
-# Barbeshop Borodinski Adaptive
+# Адаптивный сайт для барбершопа Бородинский
 
-
-### О сайте
-
+![Адаптивный сайт для барбершопа Бородинский](https://user-images.githubusercontent.com/36636599/145902415-4c414db1-4ae4-4b13-8aa5-b55d888fdaf3.jpg)
 
 ### Информация
 
